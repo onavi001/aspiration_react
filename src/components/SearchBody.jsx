@@ -1,4 +1,4 @@
-import { useState,useEffect } from "react/cjs/react.development";
+import { useState,useEffect } from "react";
 import Results from "./Results";
 import { useParams } from "react-router-dom";
 function BodyComponent() {
