@@ -32,7 +32,7 @@ Dev Notes by Ivan
 * mui : I used mui Library yo help me with some componets like cardas, chips and other basic components
 * react-test-renderer : I used this library with @apollo/client/testing to help me with the test of GaphQL
 * Netlify : I used this tool to to deploy the app, and this tool allow me to connect the site with my github repository
-    * Link : https://620204945d74ce3d35ea3ab3--relaxed-colden-dde619.netlify.app/
+    * Link : https://relaxed-colden-dde619.netlify.app/react
 
 How to run app & test
 
