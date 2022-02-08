@@ -1,0 +1,25 @@
+nav{
+    background-color : #24292f;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+}
+nav > div{
+    display: flex;
+}
+.GitHubIcon{
+    align-self: center;
+    padding:0 15px;
+}
+.TitleApp{
+    align-self: center;
+    font-size: 32px;
+    color:#57606a;
+}
+.buttonSearch{
+    height: 32px;
+    align-self: center;
+    float: right;
+    background-color:#57606a !important;
+}

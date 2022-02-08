@@ -1,0 +1,1200 @@
+{
+    "search": {
+        "__typename": "SearchResultItemConnection",
+        "repositoryCount": 173,
+        "pageInfo": {
+            "__typename": "PageInfo",
+            "startCursor": "Y3Vyc29yOjE=",
+            "hasNextPage": true,
+            "hasPreviousPage": false,
+            "endCursor": "Y3Vyc29yOjEw"
+        },
+        "edges": [
+            {
+                "__typename": "SearchResultItemEdge",
+                "node": {
+                    "__typename": "Repository",
+                    "stargazers": {
+                        "__typename": "StargazerConnection",
+                        "totalCount": 181970
+                    },
+                    "resourcePath": "/facebook/react",
+                    "repositoryTopics": {
+                        "__typename": "RepositoryTopicConnection",
+                        "totalCount": 6,
+                        "nodes": [
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "javascript",
+                                    "stargazerCount": 114347,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "nodejs"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "npm"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "node"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "react",
+                                    "stargazerCount": 65478,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "angular"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react-native"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "vue"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "frontend",
+                                    "stargazerCount": 29226,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "css"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "html"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "javascript"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "declarative",
+                                    "stargazerCount": 13,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "framework"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "router"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "reactive"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "ui",
+                                    "stargazerCount": 283,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "animation"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "material-design"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "design"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "library",
+                                    "stargazerCount": 10458,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "java"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "hacktoberfest"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "minecraft"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "cursor": "Y3Vyc29yOjE="
+            },
+            {
+                "__typename": "SearchResultItemEdge",
+                "node": {
+                    "__typename": "Repository",
+                    "stargazers": {
+                        "__typename": "StargazerConnection",
+                        "totalCount": 31426
+                    },
+                    "resourcePath": "/typescript-cheatsheets/react",
+                    "repositoryTopics": {
+                        "__typename": "RepositoryTopicConnection",
+                        "totalCount": 7,
+                        "nodes": [
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "typescript",
+                                    "stargazerCount": 24373,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "es6"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "javascript"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "language"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "typescript-playground",
+                                    "stargazerCount": 0,
+                                    "relatedTopics": []
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "reference",
+                                    "stargazerCount": 27,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "firebase"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "calendar"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "android"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "ts",
+                                    "stargazerCount": 18,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "documentation"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "dns"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "markdown"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "cheatsheet",
+                                    "stargazerCount": 140,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "documentation"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "dns"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "markdown"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "react",
+                                    "stargazerCount": 65478,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "angular"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react-native"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "vue"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "hacktoberfest",
+                                    "stargazerCount": 13194,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "python"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "haskell"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "elm"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "cursor": "Y3Vyc29yOjI="
+            },
+            {
+                "__typename": "SearchResultItemEdge",
+                "node": {
+                    "__typename": "Repository",
+                    "stargazers": {
+                        "__typename": "StargazerConnection",
+                        "totalCount": 80994
+                    },
+                    "resourcePath": "/vercel/next.js",
+                    "repositoryTopics": {
+                        "__typename": "RepositoryTopicConnection",
+                        "totalCount": 14,
+                        "nodes": [
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "react",
+                                    "stargazerCount": 65478,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "angular"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react-native"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "vue"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "server-rendering",
+                                    "stargazerCount": 19,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "rust"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "webassembly"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "wasm"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "universal",
+                                    "stargazerCount": 12,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "redux"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "reactjs"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "node",
+                                    "stargazerCount": 478,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "javascript"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "nodejs"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "npm"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "components",
+                                    "stargazerCount": 57,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "ui"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "animation"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "material-design"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "browser",
+                                    "stargazerCount": 147,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "javascript"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "nodejs"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "typescript"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "nextjs",
+                                    "stargazerCount": 517,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "typescript"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "reactjs"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "vercel",
+                                    "stargazerCount": 161,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "typescript"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "nextjs"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "static-site-generator",
+                                    "stargazerCount": 209,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "blog"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "jekyll"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "gatsby"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "hybrid",
+                                    "stargazerCount": 15,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "angular"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "typescript"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "angularjs"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "cursor": "Y3Vyc29yOjM="
+            },
+            {
+                "__typename": "SearchResultItemEdge",
+                "node": {
+                    "__typename": "Repository",
+                    "stargazers": {
+                        "__typename": "StargazerConnection",
+                        "totalCount": 100984
+                    },
+                    "resourcePath": "/facebook/react-native",
+                    "repositoryTopics": {
+                        "__typename": "RepositoryTopicConnection",
+                        "totalCount": 0,
+                        "nodes": []
+                    }
+                },
+                "cursor": "Y3Vyc29yOjQ="
+            },
+            {
+                "__typename": "SearchResultItemEdge",
+                "node": {
+                    "__typename": "Repository",
+                    "stargazers": {
+                        "__typename": "StargazerConnection",
+                        "totalCount": 19995
+                    },
+                    "resourcePath": "/ReactiveCocoa/ReactiveCocoa",
+                    "repositoryTopics": {
+                        "__typename": "RepositoryTopicConnection",
+                        "totalCount": 3,
+                        "nodes": [
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "reactiveswift",
+                                    "stargazerCount": 3,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "swift"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "ios"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "objective-c"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "reactivecocoa",
+                                    "stargazerCount": 4,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "swift"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "ios"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "objective-c"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "swift",
+                                    "stargazerCount": 20550,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "language"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "objective-c"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "ios"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "cursor": "Y3Vyc29yOjU="
+            },
+            {
+                "__typename": "SearchResultItemEdge",
+                "node": {
+                    "__typename": "Repository",
+                    "stargazers": {
+                        "__typename": "StargazerConnection",
+                        "totalCount": 45989
+                    },
+                    "resourcePath": "/remix-run/react-router",
+                    "repositoryTopics": {
+                        "__typename": "RepositoryTopicConnection",
+                        "totalCount": 0,
+                        "nodes": []
+                    }
+                },
+                "cursor": "Y3Vyc29yOjY="
+            },
+            {
+                "__typename": "SearchResultItemEdge",
+                "node": {
+                    "__typename": "Repository",
+                    "stargazers": {
+                        "__typename": "StargazerConnection",
+                        "totalCount": 93281
+                    },
+                    "resourcePath": "/facebook/create-react-app",
+                    "repositoryTopics": {
+                        "__typename": "RepositoryTopicConnection",
+                        "totalCount": 3,
+                        "nodes": [
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "react",
+                                    "stargazerCount": 65478,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "angular"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react-native"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "vue"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "zero-configuration",
+                                    "stargazerCount": 36,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "python"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "azure"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "powershell"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "build-tools",
+                                    "stargazerCount": 14,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "docker"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "devops"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "ci"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "cursor": "Y3Vyc29yOjc="
+            },
+            {
+                "__typename": "SearchResultItemEdge",
+                "node": {
+                    "__typename": "Repository",
+                    "stargazers": {
+                        "__typename": "StargazerConnection",
+                        "totalCount": 27902
+                    },
+                    "resourcePath": "/streamich/react-use",
+                    "repositoryTopics": {
+                        "__typename": "RepositoryTopicConnection",
+                        "totalCount": 0,
+                        "nodes": []
+                    }
+                },
+                "cursor": "Y3Vyc29yOjg="
+            },
+            {
+                "__typename": "SearchResultItemEdge",
+                "node": {
+                    "__typename": "Repository",
+                    "stargazers": {
+                        "__typename": "StargazerConnection",
+                        "totalCount": 46842
+                    },
+                    "resourcePath": "/enaqx/awesome-react",
+                    "repositoryTopics": {
+                        "__typename": "RepositoryTopicConnection",
+                        "totalCount": 8,
+                        "nodes": [
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "react",
+                                    "stargazerCount": 65478,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "angular"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react-native"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "vue"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "react-native",
+                                    "stargazerCount": 22220,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "reactjs"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "hooks"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "js",
+                                    "stargazerCount": 923,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "javascript"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "nodejs"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "typescript"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "tutorial",
+                                    "stargazerCount": 160,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "learning"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "education"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "book"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "samples",
+                                    "stargazerCount": 18,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "demo"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "example"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "tutorial"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "awesome-list",
+                                    "stargazerCount": 928,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "awesome"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "list"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "developer-tools"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "react-tutorial",
+                                    "stargazerCount": 3,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "python"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "django"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "python3"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "react-apps",
+                                    "stargazerCount": 0,
+                                    "relatedTopics": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                "cursor": "Y3Vyc29yOjk="
+            },
+            {
+                "__typename": "SearchResultItemEdge",
+                "node": {
+                    "__typename": "Repository",
+                    "stargazers": {
+                        "__typename": "StargazerConnection",
+                        "totalCount": 28238
+                    },
+                    "resourcePath": "/react-boilerplate/react-boilerplate",
+                    "repositoryTopics": {
+                        "__typename": "RepositoryTopicConnection",
+                        "totalCount": 10,
+                        "nodes": [
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "react",
+                                    "stargazerCount": 65478,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "angular"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react-native"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "vue"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "react-boilerplate",
+                                    "stargazerCount": 3,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "redux"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "reactjs"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "redux",
+                                    "stargazerCount": 11127,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "javascript"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "reactjs"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "redux-saga",
+                                    "stargazerCount": 10,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "redux"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "reactjs"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "offline-first",
+                                    "stargazerCount": 24,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "javascript"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "web"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "frontend"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "scaffolding",
+                                    "stargazerCount": 13,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "clojure"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "generator"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "hacktoberfest"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "i18n",
+                                    "stargazerCount": 23,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "translation"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "localization"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "emoji"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "styled-components",
+                                    "stargazerCount": 137,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "css"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react-native"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "webpack4",
+                                    "stargazerCount": 5,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "webpack"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "boilerplate"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "babel"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "__typename": "RepositoryTopic",
+                                "topic": {
+                                    "__typename": "Topic",
+                                    "name": "immer",
+                                    "stargazerCount": 4,
+                                    "relatedTopics": [
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "react"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "redux"
+                                        },
+                                        {
+                                            "__typename": "Topic",
+                                            "name": "reactjs"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "cursor": "Y3Vyc29yOjEw"
+            }
+        ]
+    }
+}
