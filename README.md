@@ -26,7 +26,7 @@ constraints
 * Please reach out per email or by opening an issue if anything is unclear or blocking you
 Best of luck
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Dev Notes
+Dev Notes by Ivan
 * Leave any technical notes on any libraries or tools you chose to use, the more detail the
 * Apollo : I used apollo library to create my GaphQL server and conect with GitHub Api
 * mui : I used mui Library yo help me with some componets like cardas, chips and other basic components
@@ -35,13 +35,16 @@ Dev Notes
 
 How to run app & test
 
-* Build by running the command `npm install`
+* Install all the dependencies by running the command `npm install`
 * Open the page by running the command `npm start`
+* Build by running the command `npm run build`
 * Test by running the command `npm run test`
 
 Future Improvements
 
 Feel free to elaborate on how you would improve any of the following topics
-* Code Structuring:
+* Code Structuring 
+    * I can use some documentation plugins to increase that part of the code
 * Refactoring:
 * Additional Features:
+    * I can use some templates to help me with the UI and UX
